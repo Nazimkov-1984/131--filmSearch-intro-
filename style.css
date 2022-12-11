@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.my-input {
+    width: 200px !important;
+    margin-right: 20px;
+}
+.searchWrapper{ 
+    display: flex;
+    margin-bottom: 20px;
+}
+.card {
+    opacity: 0;
+}
