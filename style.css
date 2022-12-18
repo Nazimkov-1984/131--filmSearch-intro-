@@ -18,5 +18,11 @@ body {
     margin-bottom: 20px;
 }
 .card {
-    opacity: 0;
+    /* opacity: 0; */
+}
+.type-film {
+    display: flex;
+}
+.card-text {
+    margin-right: 5px;
 }
