@@ -18,11 +18,15 @@ body {
     margin-bottom: 20px;
 }
 .card {
-    /* opacity: 0; */
+    margin: 10px;
 }
 .type-film {
     display: flex;
 }
 .card-text {
     margin-right: 5px;
+}
+.searchResults {
+    display: flex;
+    flex-wrap: wrap;
 }
